@@ -73,4 +73,5 @@ while True:
 
     # OPCION NO VALIDA
     else:
-        print("Opcion no valida. Intente nuevamente.")
+        print("Opcion no valida. Intente nuevamente (y este es el cambiooo).")
+        
